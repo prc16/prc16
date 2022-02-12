@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @prc16
-- 👀 I’m interested in arch
-- 🌱 I’m currently learning C++/OpenGL
-- 💞️ I’m looking to collaborate on Game
+- 👀 I’m looking to collaborate on Gamedev
 - 📫 How to reach me https://discord.gg/MgS5EHug
 
 <!---
